@@ -1,1 +1,0 @@
-/usr/bin/c++   -w -std=c++11 -D_GNU_SOURCE   CMakeFiles/rdma_measure.dir/main.cpp.o  -o bin/rdma_measure  -L/.  -L/home/stmatengss/Desktop/working/cc_rdma_bench/database_algo/lib -rdynamic 
