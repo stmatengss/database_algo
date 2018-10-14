@@ -1,4 +1,5 @@
 CMakeFiles/*
+cmake-build-debug/*
 CMakeCache.txt
 bin/*
 cmake_install.cmake

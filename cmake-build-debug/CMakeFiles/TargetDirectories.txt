@@ -1,3 +1,0 @@
-/home/mason/CS/Code/database_algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mason/CS/Code/database_algo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mason/CS/Code/database_algo/cmake-build-debug/CMakeFiles/rdma_measure.dir
